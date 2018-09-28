@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 
 #pragma warning disable IDE1006 // Naming Styles
-namespace NetCore.NodeJsLike
+namespace NodeJsLike
 {
     public class JsConsole
     {

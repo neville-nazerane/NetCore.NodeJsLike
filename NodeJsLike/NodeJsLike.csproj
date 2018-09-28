@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>
+      Helps host web apps on console based apps with node js syntax
+    </Description>
+    <PackageId>NodeJsLike</PackageId>
+    <PackageProjectUrl>https://github.com/neville-nazerane/NetCore.NodeJsLike</PackageProjectUrl>
+    <PackageTags>nodejs node-js webapp</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

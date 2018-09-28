@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Builder;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 
-namespace NetCore.NodeJsLike
+namespace NodeJsLike
 {
 
 #pragma warning disable IDE1006 // Naming Styles

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 #pragma warning disable IDE1006 // Naming Styles
-namespace NetCore.NodeJsLike
+namespace NodeJsLike
 {
 
     public interface IUrlMaker { }

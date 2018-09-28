@@ -1,5 +1,5 @@
 ﻿using System;
-using static NetCore.NodeJsLike.All;
+using static NodeJsLike.All;
 
 namespace SampleApp
 {

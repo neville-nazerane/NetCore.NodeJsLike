@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NetCore.NodeJsLike\NetCore.NodeJsLike.csproj" />
+    <ProjectReference Include="..\NetCore.NodeJsLike\NodeJsLike.csproj" />
   </ItemGroup>
 
 </Project>
